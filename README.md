@@ -1,5 +1,15 @@
 # Learn_AngularJS
-Practice AngularJS Services
+My Practice AngularJS Services
+
+You can learn AngularJS with me at:
+
+https://github.com/soiqualang/Learn_AngularJS
+
+## Demo
+
+http://dev.dothanhlong.org/tQuotes/
+
+https://soiqualang.github.io/tQuotes/
 
 <img src="h2.png">
 
