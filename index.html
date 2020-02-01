@@ -157,7 +157,7 @@ app.controller('myhttp',function($scope,$http,$interval) {
 	}
 	$interval(function () {
 		$scope.getImg();
-	}, 5000);
+	}, 15000);
 	
 	//get quotes
 	$http.get('data/quotes_5000.json').then(function (response){
