@@ -1,4 +1,7 @@
-# Learn_AngularJS
+# tQuotes
+
+> Why tRadio, No reason, just cause I like t letter :v
+
 My Practice AngularJS Services
 
 You can learn AngularJS with me at:
