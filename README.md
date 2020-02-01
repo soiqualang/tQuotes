@@ -1,6 +1,6 @@
 # tQuotes
 
-> Why tRadio, No reason, just cause I like t letter :v
+> Why tQuotes, No reason, just cause I like t letter :v
 
 My Practice AngularJS Services
 
