@@ -10,7 +10,11 @@ https://github.com/soiqualang/Learn_AngularJS
 
 ## Demo
 
+> Ok
+
 http://dev.dothanhlong.org/tQuotes/
+
+> Error in load img from services
 
 https://soiqualang.github.io/tQuotes/
 
