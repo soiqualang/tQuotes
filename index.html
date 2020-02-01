@@ -151,7 +151,7 @@ app.controller('myhttp',function($scope,$http,$interval) {
 	var imgsize=1218;
 	$scope.imgSrc='https://picsum.photos/'+imgsize;
 	$scope.getImg=function(){
-		$http.get('https://dev.dothanhlong.org/services/random_img_base64/?imgsize='+imgsize).then(function (response){
+		$http.get('https://dothanhlong.org/services/random_img_base64/?imgsize='+imgsize).then(function (response){
 			$scope.imgSrc=response.data;
 		});
 	}
